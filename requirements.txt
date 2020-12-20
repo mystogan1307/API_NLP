@@ -1,0 +1,9 @@
+python-crfsuite
+sklearn-crfsuite
+joblib
+tensorflow
+gensim
+keras
+pandas
+numpy
+flask
